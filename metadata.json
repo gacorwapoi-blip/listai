@@ -1,0 +1,6 @@
+{
+  "name": "RADAR AI - Direktori & Navigator AI Gratis",
+  "description": "Direktori kurasi tools AI gratis & open-source, kalkulator hemat langganan, pipeline builder, visual flow engine, dan roadmap cuan Rp0.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
